@@ -1,0 +1,11 @@
+{
+  "_comment": "Left = our field, right = column name in your CSV. Delete categoryOverride if the CSV has a category column.",
+  "title": "product_name",
+  "description": "about_product",
+  "price": "discounted_price",
+  "image": "img_link",
+  "rating": "rating",
+  "brand": "brand",
+  "category": "category",
+  "categoryOverride": "smartphones"
+}
