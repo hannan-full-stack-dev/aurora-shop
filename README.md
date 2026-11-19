@@ -2,7 +2,9 @@ Aurora: React E-commerce Storefront
 
 A fast, animated, fully responsive storefront built to show production-style React skills. It runs entirely in the browser (no backend, no API key) with 847 real products and real photos from open datasets.
 
-https://github.com/user-attachments/assets/a0b07b68-9462-4556-8c91-c09ec2da38cc
+<div>
+  <video src="https://github.com/user-attachments/assets/a0b07b68-9462-4556-8c91-c09ec2da38cc" controls muted playsinline></video>
+</div>
 
 
 Live demo: https://aurora-shop-e-commerce.vercel.app
